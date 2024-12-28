@@ -1,6 +1,6 @@
 {
     "name": "codewithsushil/encryption",
-    "description": "Encryption: A tool for your private data to secure",
+    "description": "Encryption: A tools to secure your private data.",
     "type": "library",
     "require-dev": {
         "phpstan/phpstan": "^2.0",
